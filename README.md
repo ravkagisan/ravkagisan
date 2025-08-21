@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ravi! 👋</h1>
-<h3 align="center">I am a student at SMK 3 Jember and an aspiring web developer aiming to work in Japan 🌸. I love building creative and functional web applications while learning new technologies.</h3>
+<h3 align="center">I am a student at SMK 3 Jember I love building creative and functional web applications while learning new technologies.</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/rudrabarad/Gifs/main/code.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravkagisan&label=Profile%20views&color=0e75b6&style=flat" alt="ravkagisan" /> </p>
